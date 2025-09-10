@@ -1,5 +1,9 @@
 h1 {
+<<<<<<< HEAD
+  color: red;
+=======
   color: aqua;
+>>>>>>> 2f72470b95808556be5e4828f4614472c9ae0d5d
   margin-top: 100px;
   margin-left: 100px;
 }
